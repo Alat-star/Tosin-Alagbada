@@ -1,28 +1,30 @@
 {
   "files": {
-    "main.css": "/Tosin-Alagbada/static/css/main.f27d49b3.chunk.css",
-    "main.js": "/Tosin-Alagbada/static/js/main.138cd205.chunk.js",
-    "main.js.map": "/Tosin-Alagbada/static/js/main.138cd205.chunk.js.map",
+    "main.css": "/Tosin-Alagbada/static/css/main.0507f2e8.chunk.css",
+    "main.js": "/Tosin-Alagbada/static/js/main.8ddea594.chunk.js",
+    "main.js.map": "/Tosin-Alagbada/static/js/main.8ddea594.chunk.js.map",
     "runtime-main.js": "/Tosin-Alagbada/static/js/runtime-main.05ee20b5.js",
     "runtime-main.js.map": "/Tosin-Alagbada/static/js/runtime-main.05ee20b5.js.map",
     "static/css/2.7fc9bc2b.chunk.css": "/Tosin-Alagbada/static/css/2.7fc9bc2b.chunk.css",
-    "static/js/2.df6270b2.chunk.js": "/Tosin-Alagbada/static/js/2.df6270b2.chunk.js",
-    "static/js/2.df6270b2.chunk.js.map": "/Tosin-Alagbada/static/js/2.df6270b2.chunk.js.map",
+    "static/js/2.69949dde.chunk.js": "/Tosin-Alagbada/static/js/2.69949dde.chunk.js",
+    "static/js/2.69949dde.chunk.js.map": "/Tosin-Alagbada/static/js/2.69949dde.chunk.js.map",
     "index.html": "/Tosin-Alagbada/index.html",
     "static/css/2.7fc9bc2b.chunk.css.map": "/Tosin-Alagbada/static/css/2.7fc9bc2b.chunk.css.map",
-    "static/css/main.f27d49b3.chunk.css.map": "/Tosin-Alagbada/static/css/main.f27d49b3.chunk.css.map",
-    "static/js/2.df6270b2.chunk.js.LICENSE.txt": "/Tosin-Alagbada/static/js/2.df6270b2.chunk.js.LICENSE.txt",
+    "static/css/main.0507f2e8.chunk.css.map": "/Tosin-Alagbada/static/css/main.0507f2e8.chunk.css.map",
+    "static/js/2.69949dde.chunk.js.LICENSE.txt": "/Tosin-Alagbada/static/js/2.69949dde.chunk.js.LICENSE.txt",
     "static/media/cv-temp-one.a79c864a.png": "/Tosin-Alagbada/static/media/cv-temp-one.a79c864a.png",
     "static/media/default-monochrome.eec06268.svg": "/Tosin-Alagbada/static/media/default-monochrome.eec06268.svg",
     "static/media/port-pro-one.7e17689d.png": "/Tosin-Alagbada/static/media/port-pro-one.7e17689d.png",
     "static/media/profile-pic.09a23a0b.jpg": "/Tosin-Alagbada/static/media/profile-pic.09a23a0b.jpg",
-    "static/media/shopping-cart.bd9fe5a2.jpg": "/Tosin-Alagbada/static/media/shopping-cart.bd9fe5a2.jpg"
+    "static/media/shopping-cart.bd9fe5a2.jpg": "/Tosin-Alagbada/static/media/shopping-cart.bd9fe5a2.jpg",
+    "static/media/weather-img-one.a187b7e3.png": "/Tosin-Alagbada/static/media/weather-img-one.a187b7e3.png",
+    "static/media/weather-img-two.c8a4f339.png": "/Tosin-Alagbada/static/media/weather-img-two.c8a4f339.png"
   },
   "entrypoints": [
     "static/js/runtime-main.05ee20b5.js",
     "static/css/2.7fc9bc2b.chunk.css",
-    "static/js/2.df6270b2.chunk.js",
-    "static/css/main.f27d49b3.chunk.css",
-    "static/js/main.138cd205.chunk.js"
+    "static/js/2.69949dde.chunk.js",
+    "static/css/main.0507f2e8.chunk.css",
+    "static/js/main.8ddea594.chunk.js"
   ]
 }
